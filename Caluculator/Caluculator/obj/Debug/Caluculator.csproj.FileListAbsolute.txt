@@ -1,0 +1,10 @@
+C:\Users\marti\source\repos\Caluculator\Caluculator\bin\Debug\Caluculator.exe.config
+C:\Users\marti\source\repos\Caluculator\Caluculator\bin\Debug\Caluculator.exe
+C:\Users\marti\source\repos\Caluculator\Caluculator\bin\Debug\Caluculator.pdb
+C:\Users\marti\source\repos\Caluculator\Caluculator\obj\Debug\Caluculator.csproj.AssemblyReference.cache
+C:\Users\marti\source\repos\Caluculator\Caluculator\obj\Debug\Caluculator.Form1.resources
+C:\Users\marti\source\repos\Caluculator\Caluculator\obj\Debug\Caluculator.Properties.Resources.resources
+C:\Users\marti\source\repos\Caluculator\Caluculator\obj\Debug\Caluculator.csproj.GenerateResource.cache
+C:\Users\marti\source\repos\Caluculator\Caluculator\obj\Debug\Caluculator.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\Caluculator\Caluculator\obj\Debug\Caluculator.exe
+C:\Users\marti\source\repos\Caluculator\Caluculator\obj\Debug\Caluculator.pdb
